@@ -1,6 +1,6 @@
 import requests
 import os
-os.system('pip install heatshrink && pip install bash && pkg install bash && pkg install figlet&&pip install figlet ')
+os.system('pip install heatshrink && pkg install figlet&&pip install figlet ')
 os.system('xdg-open https://www.instagram.com/danyar.sad')
 os.system('clear')
 os.system('figlet danyar.sad')
