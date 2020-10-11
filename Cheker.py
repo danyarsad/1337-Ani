@@ -20,13 +20,13 @@ for x in file:
   if chk==200:
     print("==== USER ====")
     print("User : "+u)
-    print("La instagram  : Haya")
+    print("status  : Haya")
     print("=============")
     print(" ")
   elif chk==404:
     print("==== USER ====")
     print("User : "+u)
-    print("La instagram nya : Nya")
+    print("status : Nya")
     print("=============")
     print(" ")
     
